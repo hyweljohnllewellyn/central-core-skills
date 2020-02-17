@@ -15,6 +15,8 @@ tags:
   - soprano
   - funeral
 ---
+![Sara Soprano, funeral singer](/img/Sara_soprano_wedding-singer.png "Sara, soprano")
+
 Her operatic lead roles include Gretel in Hansel & Gretel, Susanna in The Marriage of Figaro, Loretta in Gianni Schicchi and Julie in Carousel. 
 
 Amongst her achievements in competition she was recipient of the San Francisco Conservatory of Music Scholarship, Burlingame Music Club Voice Competition First Prize, California Federation of Music Clubs Competition Prize, St. Olaf Orchestra Senior Soloist, and the Winston Cassler Music Scholarship. 
