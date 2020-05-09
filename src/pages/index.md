@@ -21,10 +21,7 @@ intro:
   blurbs:
     - image: /img/kerryanne_central_core_skills_for_life.jpg
       text: >-
-        <iframe width="560" height="315"
-        src="https://www.youtube.com/embed/_66RiNR7jdE" frameborder="0"
-        allow="accelerometer; autoplay; encrypted-media; gyroscope;
-        picture-in-picture" allowfullscreen></iframe>
+        youtube:_66RiNR7jdE
   heading: What we offer
   description: >-
     Assessing incoming data and making decisions on output is a sensory bodily
