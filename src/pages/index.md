@@ -5,7 +5,7 @@ image: /img/products-grid2.jpg
 heading: Eclectic educational training programmes
 subheading: >-
   Strategically offloading, maintaining breathing rhythms, steering healthy
-  activities that are ESSENTIAL TO LIFE
+  activities that are essential to life
 mainpitch:
   title: Why Central Core Skills
   description: >-
@@ -16,7 +16,7 @@ mainpitch:
     People don’t know how they function, are unaware of how much time + energy
     is used up, and hold their breath for processing information which explains
     why health problems arise in life.
-description: See Kerryanne talk about central core skills.
+description: See Kerryanne talk about central core skills. 
 intro:
   blurbs:
     - image: /img/kerryanne_central_core_skills_for_life.jpg
@@ -48,4 +48,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
-
+`video: https://www.youtube.com/embed/_66RiNR7jdE`

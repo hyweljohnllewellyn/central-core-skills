@@ -3,8 +3,10 @@ import PropTypes from 'prop-types'
 import { Link, graphql } from 'gatsby'
 
 import Layout from '../components/Layout'
-import Features from '../components/Features'
-import BlogRoll from '../components/BlogRoll'
+import Content, { HTMLContent } from '../components/Content'
+// import Features from '../components/Features'
+// import BlogRoll from '../components/BlogRoll'
+
 
 export const IndexPageTemplate = ({
   image,
@@ -14,7 +16,16 @@ export const IndexPageTemplate = ({
   mainpitch,
   description,
   intro,
-}) => (
+  main,
+  content,
+  contentComponent,
+}) => 
+{
+const PageContent = contentComponent || Content
+
+
+return (
+
   <div>
     <div
       className="full-width-image margin-top-0"
@@ -74,35 +85,11 @@ export const IndexPageTemplate = ({
                   <div className="tile">
                     <h1 className="title">{mainpitch.title}</h1>
                   </div>
+                  <div className="column is-12">
+                <PageContent className="content" content={content} />
+                </div>
                   <div className="tile">
                     <h3 className="subtitle">{mainpitch.description}</h3>
-                  </div>
-                </div>
-                <div className="columns">
-                  <div className="column is-12">
-                    <h3 className="has-text-weight-semibold is-size-2">
-                      {heading}
-                    </h3>
-                    <p>{description}</p>
-                  </div>
-                </div>
-                <Features gridItems={intro.blurbs} />
-                <div className="columns">
-                  <div className="column is-12 has-text-centered">
-                    <Link className="btn" to="/products">
-                      See all products
-                    </Link>
-                  </div>
-                </div>
-                <div className="column is-12">
-                  <h3 className="has-text-weight-semibold is-size-2">
-                    Latest stories
-                  </h3>
-                  <BlogRoll />
-                  <div className="column is-12 has-text-centered">
-                    <Link className="btn" to="/blog">
-                      Read more
-                    </Link>
                   </div>
                 </div>
               </div>
@@ -113,6 +100,7 @@ export const IndexPageTemplate = ({
     </section>
   </div>
 )
+}
 
 IndexPageTemplate.propTypes = {
   image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
@@ -121,6 +109,9 @@ IndexPageTemplate.propTypes = {
   subheading: PropTypes.string,
   mainpitch: PropTypes.object,
   description: PropTypes.string,
+  main: PropTypes.object,
+  content: PropTypes.string,
+  contentComponent: PropTypes.func,
   intro: PropTypes.shape({
     blurbs: PropTypes.array,
   }),
@@ -128,6 +119,7 @@ IndexPageTemplate.propTypes = {
 
 const IndexPage = ({ data }) => {
   const { frontmatter } = data.markdownRemark
+  const { markdownRemark: post } = data
 
   return (
     <Layout>
@@ -139,6 +131,9 @@ const IndexPage = ({ data }) => {
         mainpitch={frontmatter.mainpitch}
         description={frontmatter.description}
         intro={frontmatter.intro}
+        main={frontmatter.main}
+        contentComponent={HTMLContent}
+        content={post.html}
       />
     </Layout>
   )
@@ -157,6 +152,7 @@ export default IndexPage
 export const pageQuery = graphql`
   query IndexPageTemplate {
     markdownRemark(frontmatter: { templateKey: { eq: "index-page" } }) {
+      html
       frontmatter {
         title
         image {
