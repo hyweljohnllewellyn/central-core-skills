@@ -9,7 +9,7 @@ subheading: >-
 mainpitch:
   title: Why Central Core Skills
   description: >-
-    Assessing Incoming data and making decisions on output is a sensory bodily
+    Assessing incoming data and making decisions on output is a sensory bodily
     activity and educational awareness of how people interpret life is
     important.
 
@@ -18,10 +18,16 @@ mainpitch:
     why health problems arise in life.
 description: See Kerryanne talk about central core skills.
 intro:
-  blurbs: []
+  blurbs:
+    - image: /img/kerryanne_central_core_skills_for_life.jpg
+      text: >-
+        <iframe width="560" height="315"
+        src="https://www.youtube.com/embed/_66RiNR7jdE" frameborder="0"
+        allow="accelerometer; autoplay; encrypted-media; gyroscope;
+        picture-in-picture" allowfullscreen></iframe>
   heading: What we offer
   description: >-
-    Assessing Incoming data and making decisions on output is a sensory bodily
+    Assessing incoming data and making decisions on output is a sensory bodily
     activity and educational awareness of how people interpret life is
     important.
 
