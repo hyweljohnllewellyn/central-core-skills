@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: IT'S THE BODY THAT ADJUSTS THE MIND
-image: /img/products-grid2.jpg
+image: /img/products-grid2.webp
 heading: Eclectic educational training programmes
 subheading: >-
   Strategically offloading, maintaining breathing rhythms, steering healthy
@@ -16,12 +16,11 @@ mainpitch:
     People don’t know how they function, are unaware of how much time + energy
     is used up, and hold their breath for processing information which explains
     why health problems arise in life.
-description: See Kerryanne talk about central core skills. 
+description: See Kerryanne talk about central core skills.
 intro:
   blurbs:
     - image: /img/kerryanne_central_core_skills_for_life.jpg
-      text: >-
-        youtube:_66RiNR7jdE
+      text: 'youtube:_66RiNR7jdE'
   heading: What we offer
   description: >-
     Assessing incoming data and making decisions on output is a sensory bodily
@@ -48,4 +47,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
-`video: https://www.youtube.com/embed/_66RiNR7jdE`
+
