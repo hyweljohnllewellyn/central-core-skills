@@ -12,7 +12,6 @@ const Footer = class extends React.Component {
     return (
       <footer className="footer has-background-black has-text-white-ter">
         <div className="content has-text-centered">
-        <a href="https://www.freepik.com/free-photos-vectors/success">Success vector created by freepik - www.freepik.com</a>
         </div>
        
       </footer>
