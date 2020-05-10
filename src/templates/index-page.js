@@ -28,14 +28,14 @@ return (
 
   <div>
     <div
-      className="full-width-image margin-top-0"
-      style={{
+      //className="full-width-image margin-top-0"
+     /* style={{
         backgroundImage: `url(${
           !!image.childImageSharp ? image.childImageSharp.fluid.src : image
         })`,
         backgroundPosition: `top left`,
         backgroundAttachment: `fixed`,
-      }}
+      }}*/
     >
       <div
         style={{
@@ -68,7 +68,7 @@ return (
             backgroundColor: 'rgb(255, 68, 0)',
             color: 'white',
             lineHeight: '1',
-            padding: '0.25em',
+            padding: '0.05em',
           }}
         >
           {subheading}

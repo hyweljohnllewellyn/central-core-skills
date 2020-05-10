@@ -81,22 +81,22 @@ module.exports = {
               {
                 // Using gatsby-remark-embed-video before gatsby-remark-images & gatsby-remark-responsive-iframe plugins.             
                 resolve: `gatsby-remark-embed-video`,             options: {
-                  maxWidth: 800,
-                  ratio: 1.77,
-                  height: 400,
+                  //maxWidth: 800,
+                  //ratio: 1.77,
+                  //height: 400,
                   related: false,
-                  noIframerder: true,
+                 // noIframerder: true,
                 },
               },
               {
                 resolve: `gatsby-remark-images`,             options: {
-                  maxWidth: 590,
+                  //maxWidth: 590,
                 },
               },
               {
                 resolve: `gatsby-remark-responsive-iframe`,
                 options: {
-                  wrapperStyle: `margin-bottom: 1.0725rem`,
+                  //wrapperStyle: `margin-bottom: 1.0725rem`,
                 },
               },
               ],

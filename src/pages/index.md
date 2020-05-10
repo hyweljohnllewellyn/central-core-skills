@@ -9,7 +9,7 @@ subheading: >-
 mainpitch:
   title: Why Central Core Skills? See our video below or
   description: >-
-    We offer workshops and individual consultations.  Learn how to process and assess life around you to be make better decisions and be more relaxed.
+    We offer workshops and individual consultations.  Learn how to process and assess life around you to make better decisions and be more relaxed.
 
 description: See Kerryanne talk about central core skills.
 intro:
