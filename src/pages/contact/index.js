@@ -29,7 +29,7 @@ export default class Index extends React.Component {
         ...this.state,
       }),
     })
-      //.then(() => navigate(form.getAttribute('action')))
+      .then(() => navigate(form.getAttribute('action')))
       .catch(error => alert(error))
   }
 
@@ -43,7 +43,7 @@ export default class Index extends React.Component {
               <form
                 name="contact"
                 method="post"
-                //action="/contact/thanks/"
+                action="/contact/thanks/"
                 data-netlify="true"
                 data-netlify-honeypot="bot-field"
                 onSubmit={this.handleSubmit}
