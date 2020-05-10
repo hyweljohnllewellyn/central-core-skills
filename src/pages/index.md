@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: IT'S THE BODY THAT ADJUSTS THE MIND
-image: /img/products-grid2.webp
+image: /img/products-grid2.jpg
 heading: Eclectic educational training programmes
 subheading: >-
   Strategically offloading, maintaining breathing rhythms, steering healthy
@@ -47,4 +47,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
-
+`youtube: https://www.youtube.com/watch?v=rqmdONQGbHE`
