@@ -7,15 +7,10 @@ subheading: >-
   Strategically offloading, maintaining breathing rhythms, steering healthy
   activities that are essential to life
 mainpitch:
-  title: Why Central Core Skills
+  title: Why Central Core Skills? See our video below or
   description: >-
-    Assessing incoming data and making decisions on output is a sensory bodily
-    activity and educational awareness of how people interpret life is
-    important.
+    We offer workshops and individual consultations.  Learn how to process and assess life around you to be make better decisions and be more relaxed.
 
-    People don’t know how they function, are unaware of how much time + energy
-    is used up, and hold their breath for processing information which explains
-    why health problems arise in life.
 description: See Kerryanne talk about central core skills.
 intro:
   blurbs:

@@ -83,14 +83,17 @@ return (
               <div className="content">
                 <div className="content">
                   <div className="tile">
-                    <h1 className="title">{mainpitch.title}</h1>
+                    <h1 className="title">{mainpitch.title} <Link to="/contact/">contact us </Link></h1>
                   </div>
                   <div className="column is-12">
                 <PageContent className="content" content={content} />
                 </div>
                   <div className="tile">
-                    <h3 className="subtitle">{mainpitch.description}</h3>
+                    <h2 className="subtitle">{mainpitch.description} </h2>
                   </div>
+                  <div className="tile">
+                  <h2 className="subtitle"> <Link to="/contact/">Contact Kerryanne today!</Link> </h2>
+                </div>
                 </div>
               </div>
             </div>
