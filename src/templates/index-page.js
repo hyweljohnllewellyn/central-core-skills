@@ -19,7 +19,7 @@ export const IndexPageTemplate = ({
   main,
   content,
   contentComponent,
-}) => 
+}) =>
 {
 const PageContent = contentComponent || Content
 
@@ -160,8 +160,8 @@ export const pageQuery = graphql`
         title
         image {
           childImageSharp {
-            fluid(maxWidth: 2048, quality: 100) {
-              ...GatsbyImageSharpFluid_withWebp         
+            fluid(maxWidth: 1024, quality: 85) {
+              ...GatsbyImageSharpFluid_withWebp
             }
           }
         }
