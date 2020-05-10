@@ -98,7 +98,7 @@ module.exports = {
                 options: {
                   //wrapperStyle: `margin-bottom: 1.0725rem`,
                 },
-              },
+              },`gatsby-remark-lazy-load`,
               ],
           },
         },

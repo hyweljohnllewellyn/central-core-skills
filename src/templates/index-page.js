@@ -6,7 +6,7 @@ import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
 // import Features from '../components/Features'
 // import BlogRoll from '../components/BlogRoll'
-
+import 'lazysizes'
 
 export const IndexPageTemplate = ({
   image,
