@@ -68,14 +68,14 @@ return (
             backgroundColor: 'rgb(255, 68, 0)',
             color: 'white',
             lineHeight: '1',
-            padding: '0.05em',
+            padding: '0.25em',
           }}
         >
           {subheading}
         </h3>
       </div>
     </div>
-    <section className="section section--gradient">
+    <section className="section is-paddingless section--gradient">
       <div className="container">
         <div className="section">
           <div className="columns">
