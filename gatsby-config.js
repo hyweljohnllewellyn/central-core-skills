@@ -86,12 +86,22 @@ module.exports = {
                   //height: 400,
                   related: false,
                  // noIframerder: true,
-                },
+                 urlOverrides: [
+                  {
+                    id: 'youtube',
+                    embedURL: (videoId) => `https://www.youtube-nocookie.com/embed/${videoId}`,
+                  }
+                ], //Optional: Override URL of a service provider, e.g to enable youtube-nocookie support
+                containerClass: 'lazyload', //Optional: Custom CSS class for iframe container, for multiple classes separate them by space
+              },
               },
               {
                 resolve: `gatsby-remark-images`,             options: {
                   //maxWidth: 590,
                 },
+              },
+              {
+                resolve: `gatsby-remark-lazy-load`,  
               },
               {
                 resolve: `gatsby-remark-responsive-iframe`,
