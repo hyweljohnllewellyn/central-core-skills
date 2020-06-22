@@ -9,7 +9,7 @@ subheading: >-
 mainpitch:
   title: What are Central Core Skills? See our video below or
   description: >-
-    We offer workshops and individual consultations.  Learn how to process and assess life around you to make better decisions and be more relaxed.
+    We offer workshops and individual consultations.  Learn how to process and assess life around you to make better decisions and be more relaxed. 
 
 description: See Kerryanne talk about central core skills.
 intro:
@@ -42,4 +42,14 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+How do you wake up in the morning, does your head ring? The answer may seem obvious;  your sensory body is actively influencing you into action involving time, empty space in your gut, forcing you to move on to a new day of processing decisions about breakfast, assessing output, bathroom, shower and other protective habitual survival and hygiene rituals, crucial to your functional health.
+
+Personal and professional leadership training workshops are based upon two ground rules, the first is knowledge;  for you are a bundle of cells and to stay alive cells need energy+oxygen plus other nutritional materials from outside and your functional awareness of your life’s origins is important for maintaining healthy heartfelt rhythms and sensory core balance of processing operations, dependent upon your choice of direction for connecting with outside nutritional sources exchanging energy, ideas to keep safe mentally and physically moving forward;  not leaving yourself open to chance, hope or relying upon someone else.
+
+Leadership training is for you to experience deep rhythmic breathing techniques for offloading tension which naturally builds up when concentrating on whatever you do;  listening to people, managing teams as well as maintaining one’s own functioning core balance and workload.  In professional life bent over for hours, working with great effort and skill deserves some releasing mechanisms for restoring energy and readdressing core balance.
+
+We’re all fragile with one beating heart and our human limitations are forgetting one’s own mental+physical body is dependent upon ‘keeping one eye open’ sustaining central core leadership skills based on a continuous recap of breathing rhythms, recycling relaxation techniques with others, remembering healthy activities are achieved when reinforced by self-reliant sensory core assessing operations for understanding personal energy and functional differences between people is the way forwards to progress, moving on towards a fulfilling developmental professional lifestyle.
+
+Leadership begins with your personal functional awareness of ways you think, communicate and interact is a mirror reflection upon the outside; ducklings imprinting upon their leader and when unaware of focus upon the physical representation, human errors costs because when you’re openly exposed to the core of your body, unaware of your trial and error balancing activities and of being unskilled in processing input assessing output, you hold onto your breath, lose all balance, unable to find a foothold for moving forwards and problems arise affecting your health.
+
 `youtube: https://www.youtube.com/watch?v=gxxnHU-W9Sk`
