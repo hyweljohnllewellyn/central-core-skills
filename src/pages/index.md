@@ -42,14 +42,46 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
-How do you wake up in the morning, does your head ring? The answer may seem obvious;  your sensory body is actively influencing you into action involving time, empty space in your gut, forcing you to move on to a new day of processing decisions about breakfast, assessing output, bathroom, shower and other protective habitual survival and hygiene rituals, crucial to your functional health.
+Personal and professional leadership training for independently developing core processing techniques strategically assessing output, maintaining breathing rhythms and offloading, giving time to reflect over objectives, readjusting gears, maintaining healthy core balance and achieving targeted goals.
 
-Personal and professional leadership training workshops are based upon two ground rules, the first is knowledge;  for you are a bundle of cells and to stay alive cells need energy+oxygen plus other nutritional materials from outside and your functional awareness of your life’s origins is important for maintaining healthy heartfelt rhythms and sensory core balance of processing operations, dependent upon your choice of direction for connecting with outside nutritional sources exchanging energy, ideas to keep safe mentally and physically moving forward;  not leaving yourself open to chance, hope or relying upon someone else.
+‘energy is a powerful force as a thought form or action’
 
-Leadership training is for you to experience deep rhythmic breathing techniques for offloading tension which naturally builds up when concentrating on whatever you do;  listening to people, managing teams as well as maintaining one’s own functioning core balance and workload.  In professional life bent over for hours, working with great effort and skill deserves some releasing mechanisms for restoring energy and readdressing core balance.
+## Central Core Skills Training Ground Rules 
 
-We’re all fragile with one beating heart and our human limitations are forgetting one’s own mental+physical body is dependent upon ‘keeping one eye open’ sustaining central core leadership skills based on a continuous recap of breathing rhythms, recycling relaxation techniques with others, remembering healthy activities are achieved when reinforced by self-reliant sensory core assessing operations for understanding personal energy and functional differences between people is the way forwards to progress, moving on towards a fulfilling developmental professional lifestyle.
+1. Knowledge filling in gaps between what people know and don’t know because when people’s focus is fixed upon the outside what is physically seen, they are functionally unaware and unskilled in sensory central core processing operations.
 
-Leadership begins with your personal functional awareness of ways you think, communicate and interact is a mirror reflection upon the outside; ducklings imprinting upon their leader and when unaware of focus upon the physical representation, human errors costs because when you’re openly exposed to the core of your body, unaware of your trial and error balancing activities and of being unskilled in processing input assessing output, you hold onto your breath, lose all balance, unable to find a foothold for moving forwards and problems arise affecting your health.
+  For instance when people are interacting and they receive negative responses, they hold their breath and the habitual unhealthy breathing cycle begins again, loss of balance and feelings of failure result in an inner personal dissatisfaction, an inability in trusting oneself and people physically disconnect from themselves and life which stunts direction, future outcomes affecting people’s health, social and professional goals.
+
+2. Relaxation techniques experiencing functional awareness of sensory core processing and at the same time alleviating bodily tension preventing sensory core overload restoring energy levels and allowing core techniques to become skilfully absorbed and internalised, reinstating earlier learning knowledge of interpreting life and achieving sensory central core balance. 
+
+  You will experience a functional awareness that is motivating, inspiring and you will be your own judge, jury and participant;  You will be provided with conceptual sensory techniques, DIY methods demonstrating how your body is dependent upon sensory core processing skills.
+
+During processing you will experience a sense of core balance by assessing ways you breathe and whenever I say stop breathe in deeply, this will give you the time and space for strategically offloading overcoming+editing any thoughts clearing space for achieving effective leadership performance maintaining competent core balance and I will repeat the same, so what you get from me is a constant sense of learning leadership core processing skills.
+
+## Relaxation Programmes
+
+For recapping and reinforcing self reliant techniques for breathing deeply and rhythmically, offloading, preventing tension or any uncomfortable feelings sustaining focus, navigating and steering over unpredictable obstacles and improving personal and professional leadership performance. 
+
+For offloading when processing assessing outcomes and maintaining breathing rhythms strategically overcoming unpredictable challenging times and for choosing to be with others they’re happy enough to ‘spend some time’ with because it is curious why some people make physical and negative comparisons between what they think, do and expect others to be the same.
+
+## Personal and Professional Leadership Training Workshops 
+
+Personal and Professional Leadership Training Workshops run for one and a half hours, for up to 20 attendees, with time and space for questions and tying up any loose ends...
+
+£250
+
+You will be encouraged to participate in Core Skills relaxation objectives including the following:-
+
+- Visualisation practices for occasions you are driving to the office or home...and for promoting healthy sleeping habits.
+- Basic nutrition advice, lightening the load when travelling to and from business engagements
+- Techniques for releasing tension from muscles, postural stretching exercises from spending long hours in business meetings in a sedentary position 
+- Diplomatic communication skills when you are about to engage, interact with other professionals unaware of health, skilfully processing & assessing output between exchanges
+- Techniques for overcoming negativity or impasse, preventing sensory core overload problems, maintaining flexible strategic focus & sustaining central core balance in moving on to your next task.
+
+## Individual Consultations (via video conference)
+
+Individual consultations for one and a half hours 
+
+£65
 
 `youtube: https://www.youtube.com/watch?v=gxxnHU-W9Sk`
