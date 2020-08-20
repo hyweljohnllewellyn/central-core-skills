@@ -84,9 +84,6 @@ Individual consultations for one and a half hours
 
 £65
 
-We accept 
-<!-- PayPal Logo -->
-<img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-200px.png" border="0" alt="PayPal Logo">
-<!-- PayPal Logo -->
+![Pay with PayPal](./pp-logo-150px.webp)
 
 `youtube: https://www.youtube.com/watch?v=gxxnHU-W9Sk`
