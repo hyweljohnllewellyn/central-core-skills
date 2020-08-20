@@ -84,6 +84,6 @@ Individual consultations for one and a half hours
 
 £65
 
-![Pay with PayPal](./pp-logo-150px.webp)
+![Pay with PayPal](/img/pp-logo-150px.webp)
 
 `youtube: https://www.youtube.com/watch?v=gxxnHU-W9Sk`
