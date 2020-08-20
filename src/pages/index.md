@@ -44,25 +44,17 @@ main:
 ---
 Personal and professional leadership training for independently developing core processing techniques strategically assessing output, maintaining breathing rhythms and offloading, giving time to reflect over objectives, readjusting gears, maintaining healthy core balance and achieving targeted goals.
 
-‘energy is a powerful force as a thought form or action’
-
-## Central Core Skills Training Ground Rules 
-
-1. Knowledge filling in gaps between what people know and don’t know because when people’s focus is fixed upon the outside what is physically seen, they are functionally unaware and unskilled in sensory central core processing operations.
-
-  For instance when people are interacting and they receive negative responses, they hold their breath and the habitual unhealthy breathing cycle begins again, loss of balance and feelings of failure result in an inner personal dissatisfaction, an inability in trusting oneself and people physically disconnect from themselves and life which stunts direction, future outcomes affecting people’s health, social and professional goals.
-
-2. Relaxation techniques experiencing functional awareness of sensory core processing and at the same time alleviating bodily tension preventing sensory core overload restoring energy levels and allowing core techniques to become skilfully absorbed and internalised, reinstating earlier learning knowledge of interpreting life and achieving sensory central core balance. 
-
-  You will experience a functional awareness that is motivating, inspiring and you will be your own judge, jury and participant;  You will be provided with conceptual sensory techniques, DIY methods demonstrating how your body is dependent upon sensory core processing skills.
-
-During processing you will experience a sense of core balance by assessing ways you breathe and whenever I say stop breathe in deeply, this will give you the time and space for strategically offloading overcoming+editing any thoughts clearing space for achieving effective leadership performance maintaining competent core balance and I will repeat the same, so what you get from me is a constant sense of learning leadership core processing skills.
+‘energy is a powerful force as a thought form or action’  
 
 ## Relaxation Programmes
+
+You will experience a functional awareness that is motivating, inspiring and you will be your own judge, jury and participant;  You will be provided with conceptual sensory techniques, DIY methods demonstrating how your body is dependent upon sensory core processing skills.
 
 For recapping and reinforcing self reliant techniques for breathing deeply and rhythmically, offloading, preventing tension or any uncomfortable feelings sustaining focus, navigating and steering over unpredictable obstacles and improving personal and professional leadership performance. 
 
 For offloading when processing assessing outcomes and maintaining breathing rhythms strategically overcoming unpredictable challenging times and for choosing to be with others they’re happy enough to ‘spend some time’ with because it is curious why some people make physical and negative comparisons between what they think, do and expect others to be the same.
+
+You will experience a sense of core balance by assessing ways you breathe and whenever I say stop breathe in deeply, this will give you the time and space for strategically offloading overcoming+editing any thoughts clearing space for achieving effective leadership performance maintaining competent core balance and I will repeat the same, so what you get from me is a constant sense of learning leadership core processing skills.
 
 ## Personal and Professional Leadership Training Workshops 
 
