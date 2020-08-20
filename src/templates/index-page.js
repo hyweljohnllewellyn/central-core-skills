@@ -93,12 +93,7 @@ return (
                     <h2 className="subtitle">{mainpitch.description} </h2>
                   </div>
                   <div className="tile">
-                  <h2 className="subtitle"> <Link to="/contact/">Contact Kerryanne today!</Link> 
-                  
-                  <!-- PayPal Logo --><table border="0" cellpadding="10" cellspacing="0" align="center"><tr><td align="center"></td></tr><tr><td align="center"><a href="https://www.paypal.com/uk/webapps/mpp/paypal-popup" title="How PayPal Works" onclick="javascript:window.open('https://www.paypal.com/uk/webapps/mpp/paypal-popup','WIPaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=1060, height=700'); return false;"><img src="https://www.paypalobjects.com/webstatic/mktg/Logo/AM_mc_vs_ms_ae_UK.png" border="0" alt="PayPal Acceptance Mark"></a></td></tr></table><!-- PayPal Logo -->
-
-
-                  </h2>
+                  <h2 className="subtitle"> <Link to="/contact/">Contact Kerryanne today!</Link> </h2>
                 </div>
                 </div>
               </div>
