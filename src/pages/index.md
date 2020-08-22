@@ -91,7 +91,7 @@ Individual consultations for one and a half hours
 
 Would you like to hear me speak at a business event?
  
-Speakers fee is £150 one and a half hours 
+£150 for one and a half hours. 
 
 ![Pay with PayPal](/img/pp-logo-150px.webp)
 
