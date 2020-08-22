@@ -42,9 +42,20 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
-Personal and professional leadership training for independently developing core processing techniques strategically assessing output, maintaining breathing rhythms and offloading, giving time to reflect over objectives, readjusting gears, maintaining healthy core balance and achieving targeted goals.
+Hello, my name is Kerryanne Llewellyn, am a research Psychologist, qualified teacher, Consultant Eclectic Therapist and a Writer with personal and professional aims to bridge the divide between 3 areas in your life which remain absent and you are unskilled because globally people only focus in one direction, on the outside of life at, the physical representation.
 
-‘energy is a powerful force as a thought form or action’  
+So the first question is...
+
+1.  who are you, what type of species are you?
+For instance everyone has a Birth name; this can be changed by yourself or others and this brings us onto the second question...
+
+2.  Do you know, understand how you function and the third question is
+
+3.  What do you think your purpose is in life?
+
+are you unaware of how you function because you are unaware of how you function and you are unskilled in listening interacting and communicating yet these central core processes are required socially and professionally to keep a roof over your head.
+
+As a specialist trained in crisis intervention, an Israeli project brought over to the UK in 1982 the theme of my work is __“energy is a powerful force as a thought form or action”.__
 
 ## Relaxation Programmes
 
