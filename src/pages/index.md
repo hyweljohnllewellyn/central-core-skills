@@ -7,7 +7,7 @@ subheading: >-
   Strategically offloading, maintaining breathing rhythms, steering healthy
   activities that are essential to life
 mainpitch:
-  title: What are Central Core Skills? See our video below or
+  title: Who am I and how do I overcome stress and anxiety in uncertain times? See our video below or
   description: >-
     We offer workshops and individual consultations.  Learn how to process and assess life around you to make better decisions and be more relaxed. 
 
