@@ -7,7 +7,7 @@ subheading: >-
   Strategically offloading, maintaining breathing rhythms, steering healthy
   activities that are essential to life
 mainpitch:
-  title: Who am I and how do I overcome stress and anxiety in uncertain times? See our video below or
+  title: How do I overcome stress and anxiety in uncertain times? See our video below or
   description: >-
     We offer workshops and individual consultations.  Learn how to process and assess life around you to make better decisions and be more relaxed. 
 
@@ -53,7 +53,7 @@ For instance everyone has a Birth name; this can be changed by yourself or other
 
 3.  What do you think your purpose is in life?
 
-are you unaware of how you function because you are unaware of how you function and you are unskilled in listening interacting and communicating yet these central core processes are required socially and professionally to keep a roof over your head.
+You are unskilled in listening interacting and communicating yet these central core processes are required socially and professionally to keep a roof over your head.
 
 As a specialist trained in crisis intervention, an Israeli project brought over to the UK in 1982 the theme of my work is __“energy is a powerful force as a thought form or action”.__
 
@@ -91,7 +91,7 @@ Individual consultations for one and a half hours
 
 Would you like to hear me speak at a business event?
  
-Speakers fee is £150.00 one and a half hours 
+Speakers fee is £150 one and a half hours 
 
 ![Pay with PayPal](/img/pp-logo-150px.webp)
 
