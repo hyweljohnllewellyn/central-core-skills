@@ -87,6 +87,12 @@ Individual consultations for one and a half hours
 
 £65
 
+## Speaker Fee (via video conference or at an event)
+
+Would you like to hear me speak at a business event?
+ 
+Speakers fee is £150.00 one and a half hours 
+
 ![Pay with PayPal](/img/pp-logo-150px.webp)
 
 `youtube: https://www.youtube.com/watch?v=gxxnHU-W9Sk`
